@@ -1,0 +1,163 @@
+/* .b1 {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+img {
+    width: 80px;
+    height: 80px;
+    float: left;
+    
+}
+
+div.lop2 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(219, 219, 13);
+    display: inline-block;
+    text-align: center;
+    position: static;
+}
+p {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 50px;
+}
+.hang1 {
+    background-color: rgb(95, 150, 55);
+    font-size: 30px;
+    font-style: inherit;
+    margin: 5px;
+    display: inline-block;
+}
+
+.hang2 {
+    display: inline-block;
+}
+div.lop3 {
+    width: 120px;
+    height: 300px;
+    background-color: rgb(191, 191, 152);
+    text-align: center;
+    margin-top: 20px;
+}
+.the5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 10px;
+    float: left;
+    display: inline-block;
+}
+div.the6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin-top: 10px;
+}
+ */
+
+ body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+}
+ 
+#main{
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    height: 100px;
+    background-color: #c8b2b2;
+    border: 1px solid #CDCDCD;
+    margin-bottom:5px;
+}
+
+#head-link{
+     height: 40px;
+     line-height: 30px;
+     padding-left: 10px;
+     padding-right: 10px;
+     border: 1px solid #CDCDCD;
+     background-color: #F5F5F5;
+     margin-top: 20px;
+     margin-bottom:10px;
+     clear: both;
+}
+
+#left{
+     width: 150px;
+     min-height: 400px;
+     border: 1px solid #CDCDCD;
+     float:left;
+     background-color: #070707;
+     margin-bottom: 5px;
+}
+
+#content{
+     width: 600px;
+     min-height: 400px;
+     border: 1px solid #CDCDCD;
+     float:left;
+     margin-left: 5px;
+     margin-right: 5px;
+     margin-bottom: 5px;
+}
+
+#right{
+     width: 234px;
+     min-height: 400px;
+     border: 1px solid #CDCDCD;
+     float:right;
+     margin-bottom: 5px;
+}
+
+#footer{
+     height: 50px;
+     clear: both;
+     border: 1px solid #CDCDCD;
+     background-color: #F8F8FF;
+}
+img.anh1 {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+p.p1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(150, 2, 218);
+}
+button {
+    float: right;
+}
+input {
+    float: right;
+}
+td.hang1 {
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 17px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+}
+.the5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-top: 20px;
+    color: #F5F5F5;
+}
+
+img.anh2 {
+    width: 234px;
+     min-height: 400px;
+    float: right;
+}
